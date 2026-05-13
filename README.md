@@ -1,145 +1,188 @@
-# -DETERMINISTIC-MULTI-HALO-ORGANIZATION-FRAMEWORK-
-Exploratory deterministic many-body simulation framework investigating synthetic gravity-like organization, orbit-like behavior, toy lensing, inspiral dynamics, and nonlinear multi-halo structures.
-DETERMINISTIC MULTI-HALO ORGANIZATION FRAMEWORK
+# &#x20;MODE —   Multi-Halo Orbit Dynamics Engine
 
-Exploratory deterministic many-body simulation framework investigating synthetic gravity-like organization, orbit-like behavior, toy lensing, inspiral dynamics, and nonlinear multi-halo structures.
+Many-body interaction framework investigating orbit-like organization, collision reorganization, path-curvature behavior, inspiral dynamics, and nonlinear multi-halo structures through deterministic balancing interactions.
 
 Author: Kimberly Orihuela
 LinkedIn: linkedin.com/in/kimberly-orihuela-4295452b0
-Email: kimopharr@gmail.com
+Email: [kimopharr@gmail.com](mailto:kimopharr@gmail.com)
 
-Independent exploratory research project focused on nonlinear organization behavior and deterministic many-body simulation systems.
+---
 
-Overview
+# OVERVIEW
 
-Potential Exploratory Application Areas
+MODE (Multi-Halo Orbit Dynamics Engine) is a many-body interaction and organization framework focused on bounded large-scale structure formation under tuned balancing dynamics.
 
-While the framework is currently experimental and exploratory, the observed behaviors may be relevant to research or development involving:
+The framework explores how interacting attraction-like, repulsion-like, damping, and range-limited force structures can generate persistent organized behavior without relying on Newtonian gravity equations or General Relativity field equations.
 
-- nonlinear dynamics
-- emergent organization systems
-- GPU particle simulation
-- procedural generation
-- educational visualization
-- swarm behavior modeling
-- synthetic ecosystem experiments
-- distributed coordination systems
-- complex systems research
-- VFX / game simulation
-- large-scale particle rendering
-- self-organizing simulation environments
+Current simulation branches demonstrate:
 
-The project is currently best understood as an exploratory deterministic organization framework capable of generating rich synthetic large-scale behaviors under tuned balancing interactions.
+* core-halo organization
+* orbit-like motion
+* collision reorganization
+* path-curvature behavior
+* binary inspiral dynamics
+* compression/rebound modes
+* moving-center tracking
+* nonlinear multi-structure coexistence
+* bounded large-scale organization
 
-Current work is focused on simulation research, visualization systems, parameter stability, coordinated scaling behavior, and emergent organizational dynamics rather than claims of established physical equivalence.
-This repository contains an experimental Python-based many-body simulation framework focused on deterministic balancing interactions and emergent large-scale organization behavior.
+The project is centered on nonlinear organization dynamics, simulation architecture, parameter stability, coordinated interaction systems, and emergent structured behavior in many-body environments.
 
-The project explores how tuned attraction-like, repulsion-like, damping, and range-limited interaction rules can produce persistent structured states including:
+---
 
-- core-halo organization
-- orbit-like motion
-- collision survival
-- moving-center tracking
-- toy lensing behavior
-- toy inspiral dynamics
-- large-scale visual structure
-- rebound/re-expansion modes
+# WHAT THE FRAMEWORK DOES
 
-The framework is currently best understood as an exploratory nonlinear organization system and toy gravity-like simulation environment.
+The framework evolves large numbers of interacting particles using deterministic balancing rules involving:
 
-Current Demonstrated Behaviors
+* attraction-like interactions
+* short-range repulsive stabilization
+* velocity-dependent repulsion
+* damping behavior
+* long-range dispersive pressure
+* bounded interaction scaling
+* coordinated balancing terms
 
-Core-Halo Organization
+Rather than reproducing classical Newtonian gravity equations directly, the framework investigates whether organized gravity-like behavior can emerge from tuned balancing interactions between many simultaneous interacting bodies.
 
-Repeated formation of dense central cores with persistent outer halo structures under tuned balancing rules.
+Observed behaviors include:
 
-Multi-Halo Coexistence
+* persistent halo structures
+* bounded orbital-style motion
+* reorganized post-collision structures
+* inward spiral compression behavior
+* rebound and breathing modes
+* path curvature around strong centers
+* multi-halo coexistence regions
+* parameter-dependent stability zones
 
-Stable two-halo and triple-halo coexistence observed above critical spacing thresholds.
+---
 
-Orbit-Like Motion
+# CURRENT BENCHMARK AREAS
 
-Repeatable orbit-style motion and moderate mass-asymmetry survival demonstrated across multiple test branches.
+## Core-Halo Organization
 
-Collision Survival
+Repeated formation of dense central structures with persistent outer halo organization under tuned balancing rules.
 
-Direct and glancing collisions produced structure survival, reorganization, and persistent coherent motion.
+## Orbit-Like Motion
 
-Toy Light Deflection / Lensing
+Repeatable bounded orbital-style motion and moderate mass-asymmetry survival across multiple parameter regions.
 
-Photon-like trajectory tests demonstrated distance-dependent and mass-dependent curvature behavior.
+## Collision Reorganization
 
-Toy Inspiral Dynamics
+Direct and glancing collision scenarios producing reorganization, coherent structure survival, and persistent bounded motion.
 
-Stable binary systems combined with weak deterministic energy-loss terms produced gradual inward spiral behavior.
+## Compression / Rebound Dynamics
 
-Coordinated Scaling Behavior
+Strong-center compression modes producing inward spiral behavior, rebound pulses, breathing structures, and reorganized expansion behavior.
 
-Simple geometric scaling alone did not preserve structure, but coordinated parameter rescaling produced partially preserved halo-ratio behavior.
+## Path-Curvature Behavior
 
-Selected Visual Demonstrations
+Distance-dependent and mass-dependent trajectory curvature under tuned deterministic interaction rules.
+
+## Binary Inspiral Dynamics
+
+Bounded binary systems with weak deterministic energy-loss behavior producing gradual inward inspiral-like organization.
+
+## Coordinated Scaling Behavior
+
+Coordinated parameter rescaling preserving portions of large-scale organization and halo-ratio behavior across multiple test branches.
+
+---
+
+# SELECTED VISUAL DEMONSTRATIONS
 
 Included visuals and GIFs demonstrate:
 
-- galaxy-style collision behavior
-- multi-ray lensing curvature
-- orbit-like motion
-- binary inspiral dynamics
-- core-halo spiral organization
-- collapse/rebound breathing modes
+* bounded core-halo organization
+* collapse vs balanced interaction behavior
+* collision reorganization dynamics
+* orbit-like motion
+* binary inspiral dynamics
+* path-curvature behavior
+* compression/rebound structures
+* deterministic balancing vs collapse-only systems
 
-Repository Contents
+---
 
-/images/ - PNG benchmark visuals
-/gifs/ - animated simulation demonstrations
-/whitepaper/ - technical overview and benchmark summary
+# REPOSITORY CONTENTS
 
-Current Safe Interpretation
+/images/
+Benchmark PNG visualizations
 
-The framework currently suggests that deterministic balancing mechanisms in many-body systems can generate surprisingly rich gravity-like organizational behavior under tuned parameter regimes.
+/gifs/
+Animated simulation demonstrations
 
-The project does NOT claim:
+/whitepaper/
+Technical overview and benchmark summaries
 
-- equivalence to gravity
-- General Relativity
-- astrophysical accuracy
-- cosmological validity
-- universal scale invariance
+---
 
-Observed behaviors are interpreted as synthetic gravity-like organizational effects within an exploratory deterministic simulation environment.
+# WHY PYTHON?
 
-Current Development Interests
+Python is currently used as a rapid simulation and visualization environment for parameter testing, interaction design, benchmark development, and many-body organizational studies.
+
+The framework is currently CPU-based and focused on deterministic simulation behavior and benchmark visualization generation.
+
+Potential future directions may include:
+
+* GPU acceleration
+* compute shaders
+* OpenCL/CUDA exploration
+* real-time rendering systems
+* larger particle-count scaling
+* higher-density interaction systems
+
+---
+
+# CURRENT SAFE INTERPRETATION
+
+The framework currently demonstrates that tuned balancing interactions in many-body systems can generate rich gravity-like organizational behavior under coordinated parameter regimes.
+
+The project does NOT currently claim:
+
+* equivalence to gravity
+* General Relativity
+* astrophysical accuracy
+* cosmological validity
+* universal scale invariance
+* experimentally verified physical correspondence
+
+Observed behaviors are currently interpreted as synthetic organization effects within a nonlinear many-body interaction framework.
+
+---
+
+# CURRENT DEVELOPMENT INTERESTS
 
 The project is currently seeking:
 
-- technical feedback
-- GPU/simulation engineering collaboration
-- university or research discussion
-- nonlinear dynamics expertise
-- visualization/simulation partnerships
-- exploratory research collaboration
+* GPU/simulation engineering collaboration
+* nonlinear dynamics expertise
+* visualization/simulation partnerships
+* technical feedback
+* computational systems discussion
+* research-oriented collaboration
 
 Potential future directions include:
 
-- GPU acceleration
-- attractor mapping
-- large-scale parameter sweeps
-- dimensional analysis
-- educational visualization systems
-- swarm/organization modeling
+* attractor mapping
+* parameter stability atlases
+* large-scale sweeps
+* higher-particle-count scaling
+* real-time simulation environments
+* many-body organization benchmarking
 
-The current exploratory codebase and visual simulation environment are available for reasonable collaboration discussion with researchers, technical partners, universities, simulation engineers, or GPU-focused development groups.
+---
 
-White Paper
+# WHITE PAPER
 
 See included technical document:
 
 Deterministic_Multi_Halo_Framework_Whitepaper.pdf
 
-Status
+---
 
-Experimental exploratory framework intended for nonlinear dynamics, visualization research, and toy gravity-like simulation studies.
+# STATUS
 
-All observed behaviors should currently be interpreted as exploratory synthetic simulation phenomena rather than validated physical models.
+MODE is currently an active many-body interaction and organization framework focused on nonlinear dynamics, bounded interaction behavior, and structured emergent systems.
 
-The framework is currently stable enough for exploratory demonstration and technical discussion, and is ready to share with collaborators, researchers, or potential partners.
+The framework is stable enough for technical demonstration, benchmark visualization, simulation discussion, and collaborative development conversations.
