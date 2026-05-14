@@ -69,9 +69,6 @@ Observed behaviors include:
 * parameter-dependent stability zones
 
 ---
-# Consequence-Boundary Focus
-
-OM + PCS is focused on whether a candidate action or state has standing to proceedMODE investigates whether persistent large-scale organization can emerge from balanced interaction architectures that avoid the immediate collapse or unrestricted dispersion commonly observed in simpler attraction-MODE investigates whether persistent large-scale organization can emerge from balanced interaction architectures that avoid the immediate collapse or unrestricted dispersion commonly observed in simpler attraction-only or repulsion-only particle systems.
 
 # CURRENT BENCHMARK AREAS
 
