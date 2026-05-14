@@ -1,6 +1,6 @@
 # &#x20;MODE —   Multi-Halo Orbit Dynamics Engine
 
-Many-body interaction framework investigating orbit-like organization, collision reorganization, path-curvature behavior, inspiral dynamics, and nonlinear multi-halo structures through deterministic balancing interactions.
+Many-body interaction framework exploring orbit-like organization, collision reorganization, path-curvature behavior, inspiral dynamics, and nonlinear multi-halo structures through deterministic balancing interactions.
 
 Author: Kimberly Orihuela
 LinkedIn: linkedin.com/in/kimberly-orihuela-4295452b0
@@ -10,7 +10,20 @@ Email: [kimopharr@gmail.com](mailto:kimopharr@gmail.com)
 
 # OVERVIEW
 
-MODE (Multi-Halo Orbit Dynamics Engine) is a many-body interaction and organization framework focused on bounded large-scale structure formation under tuned balancing dynamics.
+MODE (Multi-Halo Orbit Dynamics Engine) is a deterministic many-body interaction simulation where tuned balancing rules (attraction, repulsion, velocity‑dependent effects) produce core‑halo structures, orbits, collisions, lensing‑like paths, and inspiral dynamics – without directly implementing Newtonian gravity equations or General Relativity field equations. It’s a synthetic playground for emergent gravity‑like organization.
+
+• Astrophysical N-body simulations:
+Traditional N-body systems directly implement Newtonian gravity (or relativistic corrections) to model known astrophysical behavior. MODE instead investigates whether gravity-like organizational behavior can emerge from tuned balancing interactions without directly using Newtonian gravity equations as its primary interaction law.
+
+• Self-organizing and swarm systems:
+Many swarm and self-organizing systems focus on local coordination, clustering, or collective motion. MODE focuses more specifically on persistent large-scale organization, halo formation, orbit-like behavior, collision reorganization, and bounded multi-structure dynamics.
+
+• Optimization-based particle systems:
+Optimization-oriented particle systems typically converge toward a target solution state. MODE instead investigates persistent dynamical organization rather than convergence toward a single optimized point.
+
+• Analogue gravity systems:
+Analogue gravity research often recreates specific gravitational phenomena using carefully engineered physical media. MODE is instead a computational many-body interaction framework focused on emergent organization behavior arising from deterministic balancing interactions.
+
 
 The framework explores how interacting attraction-like, repulsion-like, damping, and range-limited force structures can generate persistent organized behavior without relying on Newtonian gravity equations or General Relativity field equations.
 
