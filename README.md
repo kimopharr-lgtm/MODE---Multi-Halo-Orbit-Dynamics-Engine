@@ -71,18 +71,7 @@ Observed behaviors include:
 ---
 # Consequence-Boundary Focus
 
-OM + PCS is focused on whether a candidate action or state has standing to proceed before consequence or persistence binds.
-
-The system demonstrates:
-- what admits
-- what refuses
-- what requires review
-- what persists
-- what is rejected
-- what is quarantined
-- what changes under stale, duplicate, locked, or contradictory conditions
-
-The goal is to make runtime governance behavior observable, replayable, and testable.
+OM + PCS is focused on whether a candidate action or state has standing to proceedMODE investigates whether persistent large-scale organization can emerge from balanced interaction architectures that avoid the immediate collapse or unrestricted dispersion commonly observed in simpler attraction-MODE investigates whether persistent large-scale organization can emerge from balanced interaction architectures that avoid the immediate collapse or unrestricted dispersion commonly observed in simpler attraction-only or repulsion-only particle systems.
 
 # CURRENT BENCHMARK AREAS
 
