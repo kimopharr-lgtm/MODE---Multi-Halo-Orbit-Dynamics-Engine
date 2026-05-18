@@ -1,201 +1,164 @@
-# &#x20;MODE —   Multi-Halo Orbit Dynamics Engine
+# MODE — Multi-Organization Dynamics Engine
 
-Many-body interaction framework exploring orbit-like organization, collision reorganization, path-curvature behavior, inspiral dynamics, and nonlinear multi-halo structures through deterministic balancing interactions.
+MODE is an exploratory deterministic many-body interaction framework investigating emergent organization behavior, bounded structures, nonlinear interaction dynamics, and parameter-sensitive regime transitions.
 
-Author: Kimberly Orihuela
-LinkedIn: linkedin.com/in/kimberly-orihuela-4295452b0
-Email: [kimopharr@gmail.com](mailto:kimopharr@gmail.com)
+The project explores how relatively simple balancing interactions can generate larger-scale organized behaviors without frame-by-frame scripting or direct astrophysical modeling.
 
 ---
 
-# OVERVIEW
+# CURRENT FOCUS
 
-MODE (Multi-Halo Orbit Dynamics Engine) is a deterministic many-body interaction simulation where tuned balancing rules (attraction, repulsion, velocity‑dependent effects) produce core‑halo structures, orbits, collisions, lensing‑like paths, and inspiral dynamics – without directly implementing Newtonian gravity equations or General Relativity field equations. It’s a synthetic playground for emergent gravity‑like organization.
+MODE currently investigates:
 
-• Astrophysical N-body simulations:
-Traditional N-body systems directly implement Newtonian gravity (or relativistic corrections) to model known astrophysical behavior. MODE instead investigates whether gravity-like organizational behavior can emerge from tuned balancing interactions without directly using Newtonian gravity equations as its primary interaction law.
+- emergent organization behavior
+- bounded core-halo structures
+- orbit-like persistence windows
+- collision-driven reorganization
+- compression and rebound regimes
+- deterministic interaction systems
+- nonlinear many-body dynamics
+- parameter-sensitive structural transitions
 
-• Self-organizing and swarm systems:
-Many swarm and self-organizing systems focus on local coordination, clustering, or collective motion. MODE focuses more specifically on persistent large-scale organization, halo formation, orbit-like behavior, collision reorganization, and bounded multi-structure dynamics.
-
-• Optimization-based particle systems:
-Optimization-oriented particle systems typically converge toward a target solution state. MODE instead investigates persistent dynamical organization rather than convergence toward a single optimized point.
-
-• Analogue gravity systems:
-Analogue gravity research often recreates specific gravitational phenomena using carefully engineered physical media. MODE is instead a computational many-body interaction framework focused on emergent organization behavior arising from deterministic balancing interactions.
-
-
-The framework explores how interacting attraction-like, repulsion-like, damping, and range-limited force structures can generate persistent organized behavior without relying on Newtonian gravity equations or General Relativity field equations.
-
-Current simulation branches demonstrate:
-
-* core-halo organization
-* orbit-like motion
-* collision reorganization
-* path-curvature behavior
-* binary inspiral dynamics
-* compression/rebound modes
-* moving-center tracking
-* nonlinear multi-structure coexistence
-* bounded large-scale organization
-
-The project is centered on nonlinear organization dynamics, simulation architecture, parameter stability, coordinated interaction systems, and emergent structured behavior in many-body environments.
+The framework is best interpreted as an exploratory procedural interaction system rather than a validated physical model.
 
 ---
 
-# WHAT THE FRAMEWORK DOES
+# IMPORTANT BOUNDARIES
 
-The framework evolves large numbers of interacting particles using deterministic balancing rules involving:
+MODE does NOT currently claim:
 
-* attraction-like interactions
-* short-range repulsive stabilization
-* velocity-dependent repulsion
-* damping behavior
-* long-range dispersive pressure
-* bounded interaction scaling
-* coordinated balancing terms
+- equivalence to gravity
+- equivalence to General Relativity
+- astrophysical accuracy
+- cosmological validity
+- experimentally verified physical laws
+- replacement of Newtonian or Einsteinian physics
 
-Rather than reproducing classical Newtonian gravity equations directly, the framework investigates whether organized gravity-like behavior can emerge from tuned balancing interactions between many simultaneous interacting bodies.
-
-Observed behaviors include:
-
-* persistent halo structures
-* bounded orbital-style motion
-* reorganized post-collision structures
-* inward spiral compression behavior
-* rebound and breathing modes
-* path curvature around strong centers
-* multi-halo coexistence regions
-* parameter-dependent stability zones
-
----
-MODE investigates whether persistent large-scale organization can emerge from balanced interaction architectures that avoid the immediate collapse or unrestricted dispersion commonly observed in simpler attraction-only or repulsion-only particle systems.
-
-
-# CURRENT BENCHMARK AREAS
-
-## Core-Halo Organization
-
-Repeated formation of dense central structures with persistent outer halo organization under tuned balancing rules.
-
-## Orbit-Like Motion
-
-Repeatable bounded orbital-style motion and moderate mass-asymmetry survival across multiple parameter regions.
-
-## Collision Reorganization
-
-Direct and glancing collision scenarios producing reorganization, coherent structure survival, and persistent bounded motion.
-
-## Compression / Rebound Dynamics
-
-Strong-center compression modes producing inward spiral behavior, rebound pulses, breathing structures, and reorganized expansion behavior.
-
-## Path-Curvature Behavior
-
-Distance-dependent and mass-dependent trajectory curvature under tuned deterministic interaction rules.
-
-## Binary Inspiral Dynamics
-
-Bounded binary systems with weak deterministic energy-loss behavior producing gradual inward inspiral-like organization.
-
-## Coordinated Scaling Behavior
-
-Coordinated parameter rescaling preserving portions of large-scale organization and halo-ratio behavior across multiple test branches.
+The project currently exists as an exploratory computational and procedural systems framework focused on emergent organization behavior under deterministic interaction rules.
 
 ---
 
-# SELECTED VISUAL DEMONSTRATIONS
+# CORE INTERACTION ARCHITECTURE
 
-Included visuals and GIFs demonstrate:
+The current MODE benchmark framework uses layered interaction balancing including:
 
-* bounded core-halo organization
-* collapse vs balanced interaction behavior
-* collision reorganization dynamics
-* orbit-like motion
-* binary inspiral dynamics
-* path-curvature behavior
-* compression/rebound structures
-* deterministic balancing vs collapse-only systems
+- central organization forces
+- local attraction terms
+- short-range repulsion
+- dynamic velocity-dependent repulsion
+- long-range dispersive pressure
+- damping
+- virial-style stabilization controls
+- seeded deterministic initialization
 
----
-
-# REPOSITORY CONTENTS
-
-/images/
-Benchmark PNG visualizations
-
-/gifs/
-Animated simulation demonstrations
-
-/whitepaper/
-Technical overview and benchmark summaries
+These interaction layers produce a range of observable organizational regimes depending on parameter balance.
 
 ---
 
-# WHY PYTHON?
+# OBSERVED EMERGENT REGIMES
 
-Python is currently used as a rapid simulation and visualization environment for parameter testing, interaction design, benchmark development, and many-body organizational studies.
+Observed behaviors currently include:
 
-The framework is currently CPU-based and focused on deterministic simulation behavior and benchmark visualization generation.
+- bounded organization
+- orbit-like structures
+- core-halo separation
+- collapse regimes
+- dispersion regimes
+- compression/rebound behavior
+- collision restructuring
+- persistent layered organization
+- synthetic lensing-like visual structures
 
-Potential future directions may include:
-
-* GPU acceleration
-* compute shaders
-* OpenCL/CUDA exploration
-* real-time rendering systems
-* larger particle-count scaling
-* higher-density interaction systems
-
----
-
-# CURRENT SAFE INTERPRETATION
-
-The framework currently demonstrates that tuned balancing interactions in many-body systems can generate rich gravity-like organizational behavior under coordinated parameter regimes.
-
-The project does NOT currently claim:
-
-* equivalence to gravity
-* General Relativity
-* astrophysical accuracy
-* cosmological validity
-* universal scale invariance
-* experimentally verified physical correspondence
-
-Observed behaviors are currently interpreted as synthetic organization effects within a nonlinear many-body interaction framework.
+Behavior changes significantly across parameter regimes.
 
 ---
 
-# CURRENT DEVELOPMENT INTERESTS
+# REPRODUCIBILITY
 
-The project is currently seeking:
+MODE emphasizes deterministic repeatability through seeded runs, parameter-controlled regime exploration, and benchmark-style behavioral classification.
 
-* GPU/simulation engineering collaboration
-* nonlinear dynamics expertise
-* visualization/simulation partnerships
-* technical feedback
-* computational systems discussion
-* research-oriented collaboration
-
-Potential future directions include:
-
-* attractor mapping
-* parameter stability atlases
-* large-scale sweeps
-* higher-particle-count scaling
-* real-time simulation environments
-* many-body organization benchmarking
+The canonical reference benchmark included in this repository reproduces one of the primary bounded organization regimes demonstrated in the included visualizations.
 
 ---
 
-# WHITE PAPER UNAVAILABLE 
+# INCLUDED CANONICAL BENCHMARK
 
+Primary benchmark script:
 
+MODE_CANONICAL_ORBIT_CORE_HALO_v1.py
+
+This script demonstrates:
+
+- deterministic seeded evolution
+- bounded organization behavior
+- orbit-like persistence
+- emergent core-halo structuring
+- benchmark metric reporting
+- automatic regime classification
 
 ---
 
-# STATUS
+# BASIC INSTALLATION
 
-MODE is currently an active many-body interaction and organization framework focused on nonlinear dynamics, bounded interaction behavior, and structured emergent systems.
+pip install -r requirements.txt
 
-The framework is stable enough for technical demonstration, benchmark visualization, simulation discussion, and collaborative development conversations.
+---
+
+# RUNNING THE CANONICAL BENCHMARK
+
+python MODE_CANONICAL_ORBIT_CORE_HALO_v1.py
+
+---
+
+# VISUAL DEMONSTRATIONS
+
+The repository includes exploratory visual demonstrations of:
+
+- orbit-like organization
+- collision restructuring
+- bounded persistence
+- compression/rebound behavior
+- layered core-halo organization
+- procedural emergent motion
+
+These demonstrations are generated directly from the interaction framework rather than manual animation.
+
+---
+
+# CURRENT STATUS
+
+MODE is currently an exploratory research and procedural systems project.
+
+Primary areas of interest include:
+
+- emergent organization
+- procedural simulation
+- deterministic interaction systems
+- nonlinear dynamics
+- computational emergence
+- procedural VFX experimentation
+- many-body interaction behavior
+
+---
+
+# OPEN SOURCE STATUS
+
+MODE is released under the MIT License.
+
+The framework is intended as an open exploratory project for:
+
+- procedural experimentation
+- computational systems exploration
+- emergent behavior research
+- visualization experiments
+- educational inspection
+- collaborative exploration
+
+---
+
+# AUTHOR
+
+Kimberly Orihuela
+
+GitHub:
+https://github.com/kimopharr-lgtm/MODE---Multi-Halo-Orbit-Dynamics-Engine
