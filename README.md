@@ -1,8 +1,18 @@
 # MODE — Multi-Organization Dynamics Engine
 
-MODE is an exploratory deterministic many-body interaction framework investigating emergent organization behavior, bounded structures, nonlinear interaction dynamics, and parameter-sensitive regime transitions.
+MODE is an exploratory deterministic many-body interaction framework investigating emergent organization behavior, bounded structures, 
+nonlinear interaction dynamics, and parameter-sensitive regime transitions.
 
-The project explores how relatively simple balancing interactions can generate larger-scale organized behaviors without frame-by-frame scripting or direct astrophysical modeling.
+The project explores how relatively simple balancing interactions can generate larger-scale organized behaviors 
+without frame-by-frame scripting or direct astrophysical modeling.
+
+Project Origins
+
+MODE originally emerged from broader philosophical curiosity about whether organized structure in reality may arise 
+from deeper interaction relationships, balance conditions, symmetry behaviors, and resonance-like dynamics rather than purely random chaos alone.
+
+The framework does not claim to validate or replace established physical theories. Instead, it serves as an exploratory computational sandbox 
+for investigating emergent organization behavior inside deterministic interaction systems.
 
 ---
 
